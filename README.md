@@ -9,9 +9,6 @@ Welcome to the Task List Repository! This repository is designed to help you man
 - **Labels:** Categorize tasks with labels for better organization.
 - **Due Dates:** Set due dates to manage your tasks within deadlines.
 
-## Support
-
-If you encounter any issues or have questions, please open an issue in the [Issue Tracker](issues) or reach out to us at [your-email@example.com](mailto:your-email@example.com).
 
 Thank you for choosing this Task List Repository. Stay organized and productive!
 
